@@ -36,3 +36,8 @@ response generation. It provides a simple yet
 effective example of chatbot development and
 showcases how Python can be used to build
 interactive desktop applications.
+
+OUTPUT :
+
+<img width="1323" height="964" alt="Image" src="https://github.com/user-attachments/assets/ae8d3422-bba6-4781-8b7b-b6fcbb76dfea" />
+
